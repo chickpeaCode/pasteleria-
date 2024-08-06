@@ -17,3 +17,8 @@
     text-align: center;
 
 }
+
+body{
+    background-image: url(./images/flow.webp);
+    background-repeat: no-repeat;
+}
